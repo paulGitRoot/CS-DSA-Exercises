@@ -1,6 +1,6 @@
 # Data Structures & Algorithms Exercises 🚀
 
-Welcome to **paulpapi's** repository for **Data Structures and Algorithm Exercises**! This collection includes implementations of fundamental and advanced concepts in C++, covering sorting techniques, linked lists, stack & queue operations, trees, and graphs.
+This collection includes implementations of fundamental and advanced concepts in C++, covering sorting techniques, linked lists, stack & queue operations, trees, and graphs.
 
 ## 📌 Overview
 This repository is designed for learning and practicing efficient problem-solving techniques. It contains:
